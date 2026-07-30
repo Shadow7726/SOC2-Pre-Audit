@@ -1,6 +1,19 @@
-# SOC 2 Trust Services Criteria — Complete Reference
+# SOC 2 Compliance Reference — Trust Services Criteria, Controls & Audit Prep
 
-> A single-source study and pre-audit reference covering the full SOC 2 framework: every Trust Services Criterion across all five categories, plus dedicated **Type 1** and **Type 2** guides.
+A complete, free **SOC 2** reference for engineers, founders, and compliance teams: all **51 AICPA Trust Services Criteria** (Security / Common Criteria CC1–CC9, Availability, Confidentiality, Processing Integrity, Privacy), with per-control **evidence requirements**, **SOC 2 Type 1 vs Type 2** guidance, and a **pre-audit readiness checklist**. Verified against AICPA *TSP Section 100* (2017, with 2022 revised points of focus).
+
+<sub>**Topics:** SOC 2 · SOC 2 compliance · SOC 2 audit · SOC 2 Type 1 · SOC 2 Type 2 · Trust Services Criteria · AICPA · security controls · audit readiness · evidence checklist · GRC · information security</sub>
+
+---
+
+### What's in this repository
+
+- **[Complete Trust Services Criteria](#2-complete-trust-services-criteria)** — every one of the 51 criteria across all five categories, each with what it requires and the evidence auditors typically request.
+- **[SOC 2 Type 1 guide](#3-soc-2-type-1--point-in-time)** — point-in-time design & implementation: what the auditor tests, report structure, roadmap, and pitfalls.
+- **[SOC 2 Type 2 guide](#4-soc-2-type-2--observation-period)** — observation period, sampling, recurring evidence by criteria, exceptions, bridge letters, and renewal cadence.
+- **[Evidence package template](#5-building-an-evidence-package)** and a **[common-failures watch-list](#6-where-audits-most-often-fail)**.
+
+**Who it's for:** SaaS teams preparing for a first SOC 2, engineers assembling audit evidence, compliance / GRC practitioners, and vendor-risk reviewers reading SOC 2 reports.
 
 **Framework basis:** AICPA *TSP Section 100 — Trust Services Criteria* (2017, with 2022 revised points of focus), derived from the COSO *Internal Control–Integrated Framework* (2013). SOC 2 examinations are performed under the AICPA attestation standards (AT-C 205).
 
